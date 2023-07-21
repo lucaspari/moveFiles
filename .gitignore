@@ -1,0 +1,20 @@
+# Java/Maven specific
+target/
+*.class
+*.jar
+
+# IntelliJ specific (if using IntelliJ IDEA IDE)
+.idea
+*.iml
+*.iws
+
+
+# Logs
+*.log
+log/
+
+# macOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
