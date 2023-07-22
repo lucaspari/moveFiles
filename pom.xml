@@ -36,7 +36,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>org.example.MoveFiles</mainClass>
+                            <mainClass>org.example.FileManager</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
